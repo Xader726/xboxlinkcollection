@@ -52,6 +52,7 @@ http://assets1.xboxlive.com/1/663697b5-9b2b-4a65-a1b5-8d8451f8d39a/2b06b8a4-49f6
 http://assets1.xboxlive.com/1/695f969b-e2d3-4798-b069-b77e86951b08/74f2fb66-b180-47ac-9bfe-425d3424cb62/3.1.1.0.7fa6883d-95b7-4745-8665-1d9725848e8b/TEKKEN7_3.1.1.0_neutral__zspxnp13p70qc
 http://assets1.xboxlive.com/1/6a210165-e536-4598-aced-73fb7387d18d/0fe479a4-da60-44f6-b56a-fc1ce349b849/1.26.0.0.b60e43e6-b8cf-4b55-b0ec-0c7a2f6c16c0/GRW14A9F9D8WW_1.26.0.0_x64__s38xnq1mprrfw
 http://assets1.xboxlive.com/1/6a5373e1-457e-4846-b7f9-6558564bed35/3cfa98e7-8f38-41eb-ba1e-52e610f5a3bd/1.20.2.449.ce2af989-4ca3-4db1-ad68-60fa3541aacc/WOTXONE_1.20.2.449_x64__skd5zn2mmxapm
+http://assets1.xboxlive.com/1/6b8d7b78-254b-401b-9695-72f2360231eb/e869f541-b193-4196-ad9d-31804e982a86/1.0.49.6866.6ffea3a6-35d7-40c3-a66e-3f438a65e5b7/TUN_1.0.49.6866_x64__zwks512sysnyr
 http://assets1.xboxlive.com/1/6c266b24-b5b5-4e27-a294-e6d75fa23c53/3acfb43f-51ec-4b1d-8699-7a6090bfc54a/1.0.302.180.ba937ce9-89d4-41da-95b3-d1dfb8f537f6/nbalive16_1.0.302.180_x64__zwks512sysnyr
 http://assets1.xboxlive.com/1/709e382e-1c82-4e5e-a2ab-b5935ad0b51e/eaac1a9b-9734-4053-9053-0d86e92f17fe/1.0.0.9.0f4529ea-bd81-49cc-8a19-aae7ba096c15/HBStudiosMultimediaLtd..MarkMcMorrisInfiniteAir_1.0.0.9_neutral__bn8vqj017p956
 http://assets1.xboxlive.com/1/7388aa8a-7bc1-4698-860c-d2156793fdcd/bca4159f-4efa-49d5-9a0d-efaaffbce180/1.0.12.10160.ebb03b5a-f2c5-49f0-a005-e286097a2bdd/iw8Submission-EN-FR_1.0.12.10160_x64__ht1qfjb0gaftw
@@ -445,6 +446,7 @@ http://assets1.xboxlive.com/12/1d67ecf0-4d99-4723-819e-05407fc35a92/efe9138e-7d9
 http://assets1.xboxlive.com/12/20e3f101-f208-4b4d-976f-248356a026a2/4c7d4a84-12f2-41aa-bd39-6c9786466f61/2.2.381.630.2acd1ea5-7cbe-4401-8860-8f1f1d33dba6/LifeIsStrange_2.2.381.630_neutral__ywaz7tst186jr
 http://assets1.xboxlive.com/12/211aaca3-ee8d-45b1-bc04-e0aa979453a1/255e8441-6390-4f33-b130-79609e74bf08/1.0.4.4.c2cef679-1472-4696-bae3-0c3518de47cd/0450271b402f970a2ce24b93ab39b29c_1.0.4.4_neutral__wvbrvc80n7t76
 http://assets1.xboxlive.com/12/229ff5af-2ab8-4f51-843f-02a288921ade/2dadb684-ee3b-46f4-99d3-d1de9f370bcf/1.0.30.0.c9843f90-10e7-49ef-81b1-6ad4755f6622/DaedalicEntertainmentGmbH.SKYHILL_1.0.30.0_neutral__swb5erqdpa97p
+http://assets1.xboxlive.com/12/23b51c9c-92e1-485f-b0e9-86353fe096b6/d020f991-1f49-4631-a735-2658f80689d5/1.0.1603.42113.1a49291a-2924-406f-8d4a-8beef74072b0/AlanWake4D530805-GAM0_1.0.1603.42113_x64__enma4ernx77gw
 http://assets1.xboxlive.com/12/23c421e5-5fbc-4f05-ba3e-6adacf66a1ab/15b38dd3-3ed8-4c6a-bcc0-4875134f19a2/1.0.15.0.4ac02e0a-80ed-4c89-aa04-842ddfc069f3/3951BlooberTeamS.A.BlairWitch_1.0.15.0_neutral__myqva651hxz16
 http://assets1.xboxlive.com/12/2447c1ab-416d-4330-b199-ba2fa08074cb/5c29f1ef-035b-4b0b-9a51-06cf22ca1fa3/1.0.0.44.937264ed-2b7e-428c-90d0-2bfb818f58ba/Monument_1.0.0.44_x64__8wekyb3d8bbwe
 http://assets1.xboxlive.com/12/24a82849-f3e8-48c8-baad-320eb7f56c01/24370192-cbbc-400c-b3f1-62ed27ecc602/1.6.1809.71.c09dbe4f-88e0-444b-8f50-e2a951ef3280/TR11_1.6.1809.71_x64_WW_2t89z7mffzrbj
@@ -1282,6 +1284,7 @@ http://assets1.xboxlive.com/4/41dc2492-dab4-4486-afa0-4c20c78c8e05/515775da-7a15
 http://assets1.xboxlive.com/4/455eed71-9d45-4954-bfb4-b4508e5e34b8/9bb93135-2dd3-4353-960f-64036f0ce97e/1.0.0.3.5746a0a7-a9af-4bac-a34d-7be3c2817265/Hitman2.DLC.Expansion11_1.0.0.3_neutral__w0401r1rf5aza
 http://assets1.xboxlive.com/4/494d96a7-5bd3-4d7d-9b11-ccc57245b4d0/dc976fe3-13dd-47f7-a8b9-73cee8df71f9/1.0.0.2.e4ff3ae8-6192-4f2a-a285-c93df1ae4c83/RatalaikaGames.FoxyLand_1.0.0.2_x64__yk66821rs6aqp.xvc
 http://assets1.xboxlive.com/4/496ebbff-58dd-41ae-81df-5d21ec616404/6867e190-79fd-44db-b5fc-b8c4ed4bc508/3.32.0.0.abc5dc0a-4221-4af2-b942-99cf56c2759f/Warframe_3.32.0.0_x64__wrae4txb4dzg2
+http://assets1.xboxlive.com/4/49a5eb31-0ad4-44f5-b15b-3d951aa23c9c/f5022706-83bb-4ac2-b425-4fba4d78d82d/2.0.0.7.fd55c549-ade9-4e10-9905-01a0d8cb3068/EAAccess_2.0.0.7_x64__363jdnrpk8426
 http://assets1.xboxlive.com/4/4adbab53-e06e-405c-a16e-eb29b5520c36/60abacfa-f086-427e-aff1-6124d906363e/1.2.0.0.49aa1efe-d030-4424-9025-e4b65fd56c63/AC2BRWW1EA778A4_1.2.0.0_x64__b6krnev7r9sf8
 http://assets1.xboxlive.com/4/4aede505-1048-47cf-9748-11a02c57e998/cb642d4c-c269-4ab5-b7c7-6d4d2a91c6fa/1.0.1603.40817.ea1a5d56-f04b-45c6-8a93-0e538a677847/SpecialFeature1Th4D530805-DLC2_1.0.1603.40817_neutral__7cn57wbjj1ka0
 http://assets1.xboxlive.com/4/4b99cd77-3a79-4f72-a466-629926ce01a1/2e71cdf8-bf91-4b9f-af0d-d861aaba8820/1.38.0.750.eba99610-7d22-4a8c-baac-2077f6af0674/HappyWars_1.38.0.750_x64__zyyfzks419954
@@ -1580,6 +1583,7 @@ http://assets1.xboxlive.com/6/3cd1df82-6c9b-4ee2-923c-c62efb01cfaa/0698b936-d300
 http://assets1.xboxlive.com/6/3e1a6988-5b8d-4049-ac2d-7e7b070974c7/af5e2912-c922-498e-aa94-675fe09de7c4/1.10.0.105.f7637db5-6477-4b1f-a372-96316929d90c/Contact_1.10.0.105_x64__zwks512sysnyr
 http://assets1.xboxlive.com/6/3e826756-7496-4855-b60a-46295952820e/ad14fbaf-b736-464d-9919-fca23e125634/1.2.0.0.8b866f4c-9ab2-4a00-b70d-37deefd62bc2/AnotherIndie.TheLegendofTianding_1.2.0.0_neutral__zrgg4v79ydekg_xs.xvc
 http://assets1.xboxlive.com/6/3ec961ce-c704-4860-8f91-e3ad67d750bf/9a5da8c9-a2f1-4e15-9952-036783755c60/1.2.428.0.25f75b84-fbe4-4420-8a8e-6dace27a471e/Rebellion.52602B995C00E_1.2.428.0_neutral__2vbwqmt31j4mr_x.xvc
+http://assets1.xboxlive.com/6/3fd3627e-4417-4f5c-b539-a7cea71bd3bd/f938e9bd-bf26-4072-8187-4cb71e254fe6/1.0.1603.40817.06c2912a-c60a-4490-9eb5-02b05ca43cd0/GRID2434D0844-GAM0_1.0.1603.40817_x64__7cn57wbjj1ka0
 http://assets1.xboxlive.com/6/44a0fc8c-fb28-490f-ae9d-d49fc91ec833/03504576-20ba-4e51-b4c5-7d61094a8b92/1.0.0.4.c4b28506-8f1e-4041-9952-4bd55589c8d5/BTTF_1.0.0.4_x64__5jz77rkckcm0j
 http://assets1.xboxlive.com/6/44a1ec2b-0374-43c5-b35b-c647c1824005/a55385b9-f5b3-46e5-9775-fab8ad28a2f5/1.0.0.86.ca6d7d46-0468-4923-8b05-b441f68744bc/TERA_1.0.0.86_neutral__gxk74weme99ge.xvc
 http://assets1.xboxlive.com/6/47df8c73-d6d4-485a-a410-a4f2f62abb35/e442174f-11b8-49c3-9e95-ed6256eb17fd/19.627.0.1812.0a7b9472-4321-4c25-a8a8-667062e574b7/DeadSpace2454108DF-GAM0_19.627.0.1812_x64__7cn57wbjj1ka0
@@ -1591,6 +1595,7 @@ http://assets1.xboxlive.com/6/598056f2-2a02-4b5d-94b9-fb4542e8e852/52675f35-99d0
 http://assets1.xboxlive.com/6/59e340af-a7dd-46a4-8bf2-43bbd07d65f7/7b419d62-83fb-44f5-b10a-e1160f276a91/1.3.0.0.91e38c92-caa6-494c-9ae5-74fcff1c8bb2/ee6355cd-1a54-41a4-bde3-3df237c3eec4_1.3.0.0_x64__0ygzwnwk70gy4
 http://assets1.xboxlive.com/6/5a621818-c0f8-4844-ba1f-28d43e309d6e/60a621ad-6e85-4339-b9f2-ee89cc3143aa/1.3672.49.0.2a8834f0-c78e-4f73-b23d-df3886add070/b3e007cb729440d1a3c0238daf69d430_1.3672.49.0_neutral__8wekyb3d8bbwe
 http://assets1.xboxlive.com/6/5c4cab3a-4bbe-4de1-84be-68cd4caa9cd5/e4e9e474-8b68-4eeb-89a9-b43a081c6591/1.1.31695.21.398495c0-2751-4819-91a1-053b69901884/Halo5-Guardians_1.1.31695.21_x64_6_8wekyb3d8bbwe
+http://assets1.xboxlive.com/6/5c9ecd52-cf1e-41fa-a3f6-e8d07e9eb498/64c0f322-5678-4c7e-8ea9-b3903e7bff24/1.0.1511.40312.9081191c-9f47-4dfd-bc19-b215984cc901/GearsofWar4D5307D5-GAM2_1.0.1511.40312_x64__enma4ernx77gw
 http://assets1.xboxlive.com/6/607ac92b-1700-4b17-a796-d1daadf9bd59/bca4159f-4efa-49d5-9a0d-efaaffbce180/1.0.27.10322.63f6254d-e146-4d7a-83cd-c320250b39e0/iw8Submission-EN-FR_1.0.27.10322_x64__ht1qfjb0gaftw
 http://assets1.xboxlive.com/6/63ca0e30-eaf2-47e4-8d56-6110cb215632/02ea9a5a-4e28-4a50-a8b4-ed566f01b4b8/1.3.0.0.77d897ac-962f-4bd4-ac9f-7df8045bbbbd/ef2346c2-bfe9-4d8c-beec-74415d5c3fd3_1.3.0.0_x64__vesz1v3mcwykm
 http://assets1.xboxlive.com/6/649a5c78-655c-458b-8414-38cc84695789/16b70585-70be-418c-9f04-ff0280eb0677/1.0.0.0.8493a54b-6127-40d6-ad0a-6003862352ab/RatalaikaGames.WithintheBlade_1.0.0.0_x64__evtzxnwt5e7ra.xvc
