@@ -467,6 +467,7 @@ http://assets1.xboxlive.com/11/f8a3a4bc-f20c-4772-9b64-eec151f3d703/4fbf0c64-256
 http://assets1.xboxlive.com/11/fabe83d3-151e-4489-a2ba-df5d07fd1d8d/3cfa98e7-8f38-41eb-ba1e-52e610f5a3bd/2.24.4.437.21e505f5-cba4-4c54-8b78-995b22a11a40/7458BE2C.WorldofTanksCoreGame_2.24.4.437_neutral__x4tje2y229k00_xs.xvc
 http://assets1.xboxlive.com/11/fb09f113-da12-46df-96c5-f68ba8dc72cb/93531f7f-cb55-4a71-bc27-9a3771d6119f/1.3.1811.9.cc7e6d2f-64fc-42c4-b4b2-85d0a4ddc7c3/JustCause4_1.3.1811.9_x64_WW_ywaz7tst186jr
 http://assets1.xboxlive.com/11/fe94aedd-7e65-45bc-b2c1-21947535f82f/2181d584-d800-439c-9ffa-906d3057fbe9/1.0.0.18.f44043f5-a540-40dd-8b2a-b175042defe3/SurvivingMars_1.0.0.18_x64__fgvrfk5d6wm48
+http://assets1.xboxlive.com/11/fed1bbc5-c1df-4c3a-94af-dea4f946e2dd/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3523.5494.30edf9db-92f9-4d9c-8e2f-e0904f61c4c6/436609B6.FortniteClient_1.0.3523.5494_neutral__9ncxwbgmmv7m8_x.xvc
 http://assets1.xboxlive.com/12/028ee3da-3bc6-40e9-b9ca-6b718fedd213/b6c33d0f-ce72-4533-aa2e-7991d09d7a3b/2.1.0.5.b720824f-b40e-4dd0-a724-053066a805f8/WorldOfWarshipsLegends_2.1.0.5_x64__skd5zn2mmxapm
 http://assets1.xboxlive.com/12/043a6c92-9d23-4556-8b74-ecf10cc69564/ed789d9c-5fb4-4b62-982b-b808de2429d7/1.0.0.11.94e6ec46-95a4-4ddd-9a62-3e821b1d4960/ZionRelease_1.0.0.11_x64_NA_e86sq5yxzajhg
 http://assets1.xboxlive.com/12/08f82d3e-7bdd-4755-940c-0a8d31e5701a/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.1304.4369.e4ddfb78-fa6e-48ae-86a8-dd660caa1c6b/Fortnite_1.0.1304.4369_neutral__d5xxtpggmzx6p
@@ -771,6 +772,7 @@ http://assets1.xboxlive.com/14/2271279d-5baf-4d0d-82c5-5b7d9224e751/222dc692-059
 http://assets1.xboxlive.com/14/23972cb5-31ac-4a18-8ef3-0070b4f2fff9/5e2d4440-d963-42ab-91e2-3a629ad8bd9b/1.0.0.2.3b78e458-5d37-4a74-91a9-f4e06ec0b312/Minecraft2_1.0.0.2_x64__5jz77rkckcm0j
 http://assets1.xboxlive.com/14/23f1e6ca-5645-45b6-831d-093190ed9b07/0c57204f-f4f0-4bf6-b119-b7afc231994d/0.1.18342.0.b3a02fbf-1283-48f8-bb0f-ba6512fc0f93/Destiny2_0.1.18342.0_neutral__z7wx9v9k22rmg
 http://assets1.xboxlive.com/14/2456e65b-157e-4a9e-a1fe-93e1c6cf3231/3cfa98e7-8f38-41eb-ba1e-52e610f5a3bd/1.24.4.439.3b7014ce-35d9-4241-af81-c806d9e56a41/7458BE2C.WorldofTanksCoreGame_1.24.4.439_neutral__x4tje2y229k00_x.xvc
+http://assets1.xboxlive.com/14/24db6663-eaf7-429f-ae8a-81bb21f1fcba/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.3523.5494.26c7a5e4-538f-4471-a08f-200127fc7d43/436609B6.FortniteClient_2.0.3523.5494_neutral__9ncxwbgmmv7m8_xs.xvc
 http://assets1.xboxlive.com/14/27d50ce8-8550-4a5f-a41c-02e08f125252/eea197c7-6ebf-497b-b2ef-7becd1748a6c/2.1.1.0.30baf562-96d2-4cc0-ae93-474084064bd7/CrossFireXBeta_2.1.1.0_neutral__22v58maxmhv7w
 http://assets1.xboxlive.com/14/29d70755-3828-4cfa-bace-93cd9958a130/c56dd32d-d3c2-495d-b403-30eba4cfba39/19.1007.2055.1812.7a417a08-40b8-4180-9b4b-50f929283674/MassEffect2454108CE-GAM1_19.1007.2055.1812_x64__7cn57wbjj1ka0
 http://assets1.xboxlive.com/14/2b0b17df-b7d3-4b9b-97a8-b26d997034ac/83761780-6770-444d-b35b-18e6af17c60d/1.0.11353.15007.97318e8f-284a-4a39-9521-2984e55a4c2e/R6SiegeWW373D69B4_1.0.11353.15007_x64__b6krnev7r9sf8
