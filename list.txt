@@ -58,6 +58,7 @@ http://assets1.xboxlive.com/1/6a5373e1-457e-4846-b7f9-6558564bed35/3cfa98e7-8f38
 http://assets1.xboxlive.com/1/6b8d7b78-254b-401b-9695-72f2360231eb/e869f541-b193-4196-ad9d-31804e982a86/1.0.49.6866.6ffea3a6-35d7-40c3-a66e-3f438a65e5b7/TUN_1.0.49.6866_x64__zwks512sysnyr
 http://assets1.xboxlive.com/1/6bb4d7eb-0556-49b6-a7a1-2e270ee293a9/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.20.3002.0.1058f622-d37b-4e56-b2fa-3d4164a0c6a3/Microsoft.186805A1E9E_1.20.3002.0_neutral__8wekyb3d8bbwe_x.xvc
 http://assets1.xboxlive.com/1/6c266b24-b5b5-4e27-a294-e6d75fa23c53/3acfb43f-51ec-4b1d-8699-7a6090bfc54a/1.0.302.180.ba937ce9-89d4-41da-95b3-d1dfb8f537f6/nbalive16_1.0.302.180_x64__zwks512sysnyr
+http://assets1.xboxlive.com/1/6e872cf9-f95c-4da9-a264-b7d9d2b7979c/9d8d4f1b-946d-40a6-8de6-54d2c057883f/1.0.0.1.658b97ff-dadd-48ee-b43d-05af38c13ee1/DeadRising4-StockingStufferHolidayPack_1.0.0.1_x64__pstntefjbq2xc
 http://assets1.xboxlive.com/1/709e382e-1c82-4e5e-a2ab-b5935ad0b51e/eaac1a9b-9734-4053-9053-0d86e92f17fe/1.0.0.9.0f4529ea-bd81-49cc-8a19-aae7ba096c15/HBStudiosMultimediaLtd..MarkMcMorrisInfiniteAir_1.0.0.9_neutral__bn8vqj017p956
 http://assets1.xboxlive.com/1/73408784-c59c-4d60-880b-2b71ffb4bd33/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.19.8024.0.93b63ce6-9255-40e1-8481-32885fd1283f/Microsoft.MinecraftBeta_1.19.8024.0_neutral__8wekyb3d8bbwe_x.xvc
 http://assets1.xboxlive.com/1/7388aa8a-7bc1-4698-860c-d2156793fdcd/bca4159f-4efa-49d5-9a0d-efaaffbce180/1.0.12.10160.ebb03b5a-f2c5-49f0-a005-e286097a2bdd/iw8Submission-EN-FR_1.0.12.10160_x64__ht1qfjb0gaftw
@@ -370,6 +371,7 @@ http://assets1.xboxlive.com/11/70647ecb-fb07-4f91-ab19-0a63fefd063f/b6c33d0f-ce7
 http://assets1.xboxlive.com/11/70a07b1e-4cd5-4ef9-bf6a-4950167850ee/99f632a1-5a98-46fc-bbda-7ac4f4f9f38c/1.4.0.4.f3055c9c-58c9-4328-ae47-2e69d1c35459/Wreckfest_1.4.0.4_x64__7b23meqmzvs8p
 http://assets1.xboxlive.com/11/740e9d9d-befa-4037-8df1-3414ffec55f7/191411b9-2ecf-4a07-9a28-96f5348640f8/3.1.0.0.1b3f27b1-9ebe-4e2b-9d84-54de250564e3/JD2017EMEA3BC9FD06_3.1.0.0_x64__z1zgv8ff8e49g
 http://assets1.xboxlive.com/11/744dde42-7f59-4261-a8fc-6dd0f3b9b045/ad2f5a02-79cc-4282-be7b-6711663d9031/1.0.6.4.1ba7e3be-2087-43d2-8411-908272a58630/ElectronicArtsMobile.Artemisgame_1.0.6.4_neutral__q5ha1ztykcgvj_xs.xvc
+http://assets1.xboxlive.com/11/756548c1-358c-4aea-b05a-33ca568c3b1e/76fa2cf3-73ce-4d85-83e9-c91ce9e2155c/19.627.140.19.a3b0c766-dcda-4f86-91e4-500144fd7cdd/DEADRISING2CASEWE58410B00-GAM0_19.627.140.19_x64__enma4ernx77gw
 http://assets1.xboxlive.com/11/75761224-0dd9-45a8-8d05-5659434df32a/eb724350-68c9-4857-8b18-861ff06f2b6a/1.5.1.0.11d5306d-a83c-4626-8045-f3185fc6f970/Payday2_1.5.1.0_x64__zjr0dfhgjwvde
 http://assets1.xboxlive.com/11/75808d62-c838-4f3d-8c37-c68dcb0a8a6f/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.19.5020.0.c7999798-ade0-4cb1-bda8-30735e647583/Microsoft.MinecraftBeta_1.19.5020.0_neutral__8wekyb3d8bbwe_x.xvc
 http://assets1.xboxlive.com/11/769148ca-553b-40a9-b02e-47eb71d649ca/318a0e98-b6ea-4644-8921-ddca88bfc38e/1.0.0.2.d74e2a53-b492-4a51-a49d-edf7d35dd00b/Rime_1.0.0.2_neutral__00w556nc9ctr4
@@ -596,6 +598,7 @@ http://assets1.xboxlive.com/12/f6b0b167-2dae-4775-9eaa-86d278228b97/bca4159f-4ef
 http://assets1.xboxlive.com/12/fa5f5191-c7e2-4654-b9d0-89c4601c69d3/3d7efd63-f26f-41d1-9f3e-f55dfee68186/1.264.748.0.e2bf48c3-12ce-4954-9bf6-2057b2b1c19e/Sunrise_1.264.748.0_x64__8wekyb3d8bbwe
 http://assets1.xboxlive.com/12/fc62f351-976e-4d5b-b5dc-aee2ad07e06c/27f1e784-aede-4b9d-93b6-3f4d501a9c2a/1.0.0.4.a583a38e-60a7-476f-9bfc-4cc68326cdcb/VenusPrototype_1.0.0.4_neutral__hpb4xwv3psfh4
 http://assets1.xboxlive.com/12/fd8bc46f-e7e9-484e-a576-159965be6e64/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.19.8301.0.ff467acd-d83d-484a-8ed5-312863ed4d39/Microsoft.186805A1E9E_1.19.8301.0_neutral__8wekyb3d8bbwe_x.xvc
+http://assets1.xboxlive.com/13/03a1459a-6f9d-4ad4-9cac-eb52c37dd4c8/097aff5c-7710-4f69-8da2-f45e391ef01e/1.0.0.9.50fbd40d-5223-439c-84f6-3896842de66e/DR2OTR_1.0.0.9_x64__ev4wh195fr1jj
 http://assets1.xboxlive.com/13/061f01fd-cd39-4dbc-873f-a406666d50fd/3d7efd63-f26f-41d1-9f3e-f55dfee68186/1.367.746.0.71236845-d157-4025-a988-b336b87fe33c/Sunrise_1.367.746.0_x64__8wekyb3d8bbwe
 http://assets1.xboxlive.com/13/0706dd26-496d-4c4e-9e16-06e1feb96bd8/5b9a24c8-f05a-4f99-8211-e6bcd5e3c06d/1.3.660.253.9e09d292-6dc3-4927-b36c-a747260a3515/Hitman.DLC.Paris_1.3.660.253_neutral__ywaz7tst186jr
 http://assets1.xboxlive.com/13/07fa10c0-e48d-4b99-b8d9-196c723a58dd/1d17f1db-0581-4116-a6b8-1f144c4e5b99/1.4.1.1821.e8b67d82-4b24-4e68-a53e-3bbd80ebe6ad/ACEEU1DEC71AF_1.4.1.1821_x64__b6krnev7r9sf8
@@ -616,6 +619,7 @@ http://assets1.xboxlive.com/13/193d4ff4-9fd8-4b77-a3be-2fdbd0458b9c/0a7b0a16-9fe
 http://assets1.xboxlive.com/13/1a162236-4c2c-4c32-91ef-5608c7851cb5/a2a825aa-d730-47c9-847d-9acf36a6075f/19.627.30.1901.73224211-a0c6-4a8f-9608-e71c75dd3b69/MorrowindGam42530005-GAMGOTYNA_19.627.30.1901_x64__7cn57wbjj1ka0
 http://assets1.xboxlive.com/13/1a4fe220-d102-48a4-a83a-9a45bbcbe55a/5d06d325-bbed-45e2-b556-51c2056d431a/1.0.0.3.30966612-f92e-4c23-896c-dffaf6ce760f/SteinsGateZero_1.0.0.3_x64__mrv935vgm8cz6
 http://assets1.xboxlive.com/13/1a819671-810a-4eea-9ce6-19fdb143c35b/1cf45b02-3c5f-4502-b637-7359b5b31c11/1.0.5.139.8675b4c9-8d25-484a-9a98-acd785250e77/GOW4_1.0.5.139_x64__n8p1nce9y4t28
+http://assets1.xboxlive.com/13/1de394a3-7795-46ae-bd2c-ee8c3702ddcd/5def6c0d-3e5d-4dc7-b837-1e57d2763cc4/1.0.0.8.2a43e2d9-f320-4a77-8259-cc97791667a1/DR2_1.0.0.8_x64__ev4wh195fr1jj
 http://assets1.xboxlive.com/13/20331f66-3e12-4554-8087-ae441f0e820f/34a2ef07-93b7-48b7-833a-e4bbc037f7d5/1.1.798.17.b9b8ee0f-9d1d-4df4-9ff3-37e88cd3aed5/ARKSurvivalEvolved_1.1.798.17_neutral__2wc4svk0vzm80
 http://assets1.xboxlive.com/13/2084dda0-b38c-48c0-948d-a00150757fec/f097c67e-135b-41fa-9f3d-a5d9c4449b86/1.0.0.1.a837c6f7-f11f-4b60-8935-d1f0bb29e1ca/Digerati.DemonswithShotguns_1.0.0.1_neutral__99qy7rmaexvyc
 http://assets1.xboxlive.com/13/23c817fd-e538-4462-a60e-4ce5d9593850/0e9721ad-d535-4c89-9f63-27ba5adfb68d/1.0.0.0.c61c3259-5325-41b2-8a14-90efa0e2e9a0/MANCANA_1.0.0.0_neutral__zjr0dfhgjwvde
@@ -640,6 +644,7 @@ http://assets1.xboxlive.com/13/47f6adfa-1315-420d-b5ce-3d6d54d123ef/7b5e7de8-4d0
 http://assets1.xboxlive.com/13/48f9a645-cf00-4bfc-8c05-66bf0eaeaf38/7ef43742-3871-4f88-86c4-51ac9bd0661f/19.627.40.1812.67ade2fc-a27b-4d59-af6a-6ab58c744d77/LEGOStarWarsIII4C4107F3-GAM0_19.627.40.1812_x64__enma4ernx77gw
 http://assets1.xboxlive.com/13/493d0571-15f2-455e-8871-7cbaaad6b706/42f1b56a-6074-472d-b9c9-992c3ffcf15e/1.0.0.1.e9059529-e442-49a6-833f-fffc16712dcf/2AwesomeStudio.Inferno2_1.0.0.1_neutral__7vcwmwrnk980r
 http://assets1.xboxlive.com/13/4a031258-a939-4fe1-93f7-7f049884d10f/c299ea3d-4eec-48f5-a588-07af0647354f/1.1.2.2.0fe7d6ce-9a5f-40f7-9429-4b291fcf5d53/StudioCraftDevelopment.LilysEpicQuest_1.1.2.2_neutral__wn8r8t07842q4
+http://assets1.xboxlive.com/13/4c78564e-6225-4d28-99e4-cb012bd6d072/297fa993-d38e-4471-8e68-23a576447bd0/1.0.16.0.d902aada-3001-4778-a712-5b6717b0d834/Microsoft.GroundedInsiderFlight_1.0.16.0_neutral__8wekyb3d8bbwe_x.xvc
 http://assets1.xboxlive.com/13/4c836356-f367-4688-9582-9070240e059f/90f36c9d-22de-406b-aeda-8fdd956c1a9b/1.0.0.8.77e091ba-7311-4f65-8499-6743317388a5/ResidentEvil-6_1.0.0.8_x64__zjr0dfhgjwvde
 http://assets1.xboxlive.com/13/4cbefa1f-055d-40ac-9254-f1171a0e1a40/b6defe52-0e56-4fc9-bebf-ef5610673313/1.0.8.2.f16043c7-1c9c-4b6b-bae0-1d0c832c8b1c/Battlezone26E4B814_1.0.8.2_x64__09wxwh7d8eq5m
 http://assets1.xboxlive.com/13/4d4fe76c-a377-4cae-bb36-0a6dedee760e/c70c3ea2-392e-4852-8950-c957aac91264/19.627.30.1812.9e9d9b61-17ad-4188-8c61-c9fafb3ba725/Crysis34541098E-GAM0_19.627.30.1812_x64__7cn57wbjj1ka0
@@ -1068,6 +1073,7 @@ http://assets1.xboxlive.com/2/3a472574-e39d-4b39-8f18-bb8dce72b04b/8ed83d4a-02a7
 http://assets1.xboxlive.com/2/3ce96960-e2c1-4bfe-84bf-5a585b5afb75/2b05043b-4043-4ba0-80ed-fd4811c4b333/3.6.0.0.476c74d1-4901-45d8-b2f1-c98b63755a29/KillerInstinct_3.6.0.0_x64__n8p1nce9y4t28
 http://assets1.xboxlive.com/2/3cfe34e1-2acd-4c6a-b029-57020af2dc4b/71bf4342-5222-4533-855f-799b2e2d6bfe/1.0.1.0.06f26075-d200-4117-952e-0679ae1de605/SEGAofAmericaInc.ProjectOrionGame_1.0.1.0_neutral__s751p9cej88mt_x.xvc
 http://assets1.xboxlive.com/2/4029a8b4-1e69-4ba2-96b9-2cac375ba6b7/2d246eed-b164-4ef0-95a4-51f5d9de5bfb/1.0.0.4.0fb53ee1-5340-4a42-9e2f-1e1ae8ece8dd/Hitman2.DLC.Expansion10_1.0.0.4_neutral__w0401r1rf5aza
+http://assets1.xboxlive.com/2/40cf7120-2f92-43ab-ad6d-6dd024e7f41d/cf662d5a-767e-4084-a835-6fc4f4c0d7ff/1.1.0.0.44c9ffa2-8ee4-4d42-8240-a3dad148642b/SuperUltraDeadRising4MiniGolf_1.1.0.0_x64__pstntefjbq2xc
 http://assets1.xboxlive.com/2/40d47bed-1b9f-4ccb-b2c2-2db25c8ebddb/23cd9abf-8f75-47ab-b442-3cd9ad4345d2/1.35.21.0.1571250b-176c-4d4c-bb58-11ba11d3f4e8/Microsoft.FlightSimulator_1.35.21.0_neutral__8wekyb3d8bbwe_xs.xvc
 http://assets1.xboxlive.com/2/43c01a9f-ebf9-4db6-aa99-2cd1778bc5d4/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.18.3063.0.03ab87a3-b907-45d1-824d-0f0427de3e3c/Microsoft.MinecraftBeta_1.18.3063.0_neutral__8wekyb3d8bbwe_x.xvc
 http://assets1.xboxlive.com/2/44e80a33-236f-4b2e-a86f-1a49beab207b/5aaa30f7-f403-4c2f-ad5c-19b3ea42ec73/1.0.0.1.0e2947d3-c7d4-45ff-8a64-4dd8d5cbeb86/JanduSoftS.L..SlabWell_1.0.0.1_neutral__6y00p8xqgzb62
@@ -1864,6 +1870,7 @@ http://assets1.xboxlive.com/7/58a88d52-a778-4b29-aae9-281989ba79f2/005abae1-0514
 http://assets1.xboxlive.com/7/5b120bd2-d169-4052-ad97-8729d4b78800/d6069d66-8c0e-4011-ac22-1894ac1f1862/1.1.31695.21.f8fd0b86-f697-4c3e-904b-5dde3f9bd611/Halo5-Guardians_1.1.31695.21_x64_1_8wekyb3d8bbwe
 http://assets1.xboxlive.com/7/5cad10ac-8b3b-49f0-8e1c-06815c126272/aac75df1-dfe7-4326-97fd-61b2f33398a4/1.0.15.3321.ad281ac6-e56a-4fe2-a861-b7fbd5f97551/Codemasters.FOE_1.0.15.3321_neutral__62ktj6msykznt
 http://assets1.xboxlive.com/7/5f062b2b-7524-4069-8603-e0d31f71dfa0/f600547b-ba20-41e1-931c-0daa6ed1414c/1.0.46.28316.93bbe603-2575-44c3-bc90-c53e6c34767e/FifaGame-WW_1.0.46.28316_x64__zwks512sysnyr
+http://assets1.xboxlive.com/7/610d37d5-c24a-46a3-813c-a7a763d69cbd/b7623f9c-2ee5-47d8-a1c2-623a6788c81c/21.816.1010.1901.93ce6485-dd8d-4de7-ad05-2947fd1f1d99/ChickenLittle42560002-GAM0_21.816.1010.1901_x64__7cn57wbjj1ka0
 http://assets1.xboxlive.com/7/648ca00e-7b94-4314-bae0-646a80fd3163/3f33ee1a-ec9f-4446-94b8-78edf13040ce/1.6.1.0.db48cc97-a72b-4660-865c-6d2c240c1a89/ACEUS1DEC71AF_1.6.1.0_x64__b6krnev7r9sf8
 http://assets1.xboxlive.com/7/6607835b-7565-434e-9183-dbc921cc8619/cb2562e0-d75f-4d9e-a9cb-406dbfb6e83d/1.0.0.3.7c6d46c4-5da4-455f-a7ed-b90f53b350fd/StoryFort.DunkLords_1.0.0.3_neutral__r6jabee9s6g9p
 http://assets1.xboxlive.com/7/66ae7abb-53cb-4526-925e-67b837addee2/75ba05ab-c694-4721-b5f0-d985905f2dce/1.0.25.0.4331ca79-633b-4234-9ff8-a6d2cf6aa36b/shg2SubmissionENFR_1.0.25.0_x64__ht1qfjb0gaftw
@@ -1990,6 +1997,7 @@ http://assets1.xboxlive.com/8/37e76f46-7591-4bab-8155-0ff46a65b5ba/4bb3a0ae-668a
 http://assets1.xboxlive.com/8/39879be0-4bb6-4718-8000-5e061fbc4a90/d4a06cee-d1f5-4eb1-b6df-000976933a9d/1.1.2.3.4ba02616-90f4-4cd2-a469-b00d0fbdfae6/update-1.0.1.4.f7ea5048-be68-4de6-a6c8-686cb3f5047f.xsp
 http://assets1.xboxlive.com/8/39f39f37-a843-4443-9c51-64b929cad692/c56dd32d-d3c2-495d-b403-30eba4cfba39/1.0.1609.42311.3a8972af-136e-4619-acd2-cc570e57222c/MassEffect2454108CE-GAM1_1.0.1609.42311_x64__7cn57wbjj1ka0
 http://assets1.xboxlive.com/8/3f4e4f41-6920-4dc1-b7e2-f7106a370fca/92f8da17-d7c0-4154-a5d1-001a2e7d9cee/1.0.6.0.16aa7cc2-f24f-4102-98d2-6ad4d8064650/Zinc_1.0.6.0_x64_EFISRP_e86sq5yxzajhg
+http://assets1.xboxlive.com/8/3fd9d624-c153-490e-9b5a-39e58b555d1d/850b3d22-d772-4630-9f4a-553b636847cf/1.1.0.0.11118c9f-ab33-4fe9-b283-df9071e4b1ec/DeadRising4-FrankRising_1.1.0.0_x64__pstntefjbq2xc
 http://assets1.xboxlive.com/8/41d171b7-d492-42a7-83c0-ecc5e295e3e9/413b8644-561c-455f-9b9c-680abbab826e/1.0.0.3.e6b273a1-d496-444f-a478-7e5c15229e89/ResidentEvil-5_1.0.0.3_x64__r12nkcffspr4t
 http://assets1.xboxlive.com/8/47d0ec99-f8b1-4ad2-8646-e0cf9d186635/aa426f63-a8d8-46b2-895b-d3a68089b68c/1.0.0.2.3de00174-c318-4812-8daa-9365f01c718f/ShadowComplexRemastered_1.0.0.2_neutral__rk4f63r9nh182
 http://assets1.xboxlive.com/8/4809a8bd-3a47-4908-9625-2bc35de598da/65307831-308b-4f1b-bb57-8b10e748da82/1.1.95.0.25417ff9-66d6-4012-8871-1a61ac9428c1/Microsoft.HalifaxBaseGame_1.1.95.0_x64__8wekyb3d8bbwe
@@ -2293,6 +2301,7 @@ http://assets1.xboxlive.com/Z/5e399748-7d55-4ea0-a839-441bed5f437c/b0c9dfa6-54c0
 http://assets1.xboxlive.com/Z/60e6457a-7b3a-478c-9ac8-e81067285a8e/d850ffe1-84f8-432c-b8a0-19357562811c/2.0.0.52.a7ce1359-31d2-42bc-9218-3be2c707cb5e/IOInteractiveAS.HITMAN3-BaseGame_2.0.0.52_neutral__6h0y724g59e1w_xs.xvc
 http://assets1.xboxlive.com/Z/61eab977-589a-4192-af8e-2cc7bfb1de48/ac093b66-c37c-4f95-bd9b-1817c789e41f/1.8.0.0.1157b895-f02f-4595-9216-5bb1461eff6c/00BA40CC-US_1.8.0.0_x64__fc7h7ec1dwtc0
 http://assets1.xboxlive.com/Z/622768d8-0b27-4eb7-8272-71c83e869928/84dee145-1ae0-4058-83c2-95b159350a46/1.2.718.0.b04898ef-d6dc-4f9e-81d0-12d9b8384eed/BonusXP.ST3TG_1.2.718.0_neutral__meay61w269y5m
+http://assets1.xboxlive.com/Z/63f5480b-2495-4503-8254-96d5703de01d/7e32980b-b1e8-456e-a894-7bb4d3f3d674/1.0.28.10343.a86d246c-1562-496b-90c0-6126b91d5918/iw8Submission-EN-KO-ZH_1.0.28.10343_x64__ht1qfjb0gaftw
 http://assets1.xboxlive.com/Z/675ef1c2-f8a2-474a-bde6-be07b2227ebd/e24186ce-9f25-4898-8b70-013b4a4f3f21/1.0.10.0.680d36f0-c64e-49a1-af45-f23e07ef610e/Opus_1.0.10.0_x64__8wekyb3d8bbwe
 http://assets1.xboxlive.com/Z/67cd6d72-5344-4fa0-8a57-c038f7822a2c/7dc1ec38-9797-453c-bdc5-a4acccdb1bbc/1.0.59.2076.d6924fed-9ce0-4133-b32d-f989f828ff2c/Nfs20_1.0.59.2076_x64__zwks512sysnyr
 http://assets1.xboxlive.com/Z/6f0c1b2e-62c7-4e0a-8176-a35c2f808715/24398ad3-f43a-497b-af1a-476d4adad090/19.627.200.19.d32c0285-1cbe-497d-bb97-af5dd4eb7d71/Bejeweled2584107D2-GAM0_19.627.200.19_x64__7cn57wbjj1ka0
@@ -2397,6 +2406,7 @@ http://dlassets.xboxlive.com/public/content/0d1608fb-6778-4677-a347-e14eced0a0a6
 http://dlassets.xboxlive.com/public/content/0d9d6568-c1be-4896-b7c7-9901709a1311/8a6fee32-c3b2-4d5d-bab4-fef9ff25af79/1.0.0.5.314b0b72-68cf-45d4-81a4-6f9aeba2cdbf/GOWUE_1.0.0.5_x64__n8p1nce9y4t28
 http://dlassets.xboxlive.com/public/content/0ddcc28b-c2f8-4016-8d83-13677da08856/47f5d4d3-f0f8-46d0-9f1a-b092467dcd90/1.0.0.4.5a835248-79d4-4a82-8947-ea47e7a8743c/SH7GameDingo_1.0.0.4_neutral__xhwqzgc078wyj
 http://dlassets.xboxlive.com/public/content/139bc43a-0f2e-476b-9f06-af250b515326/680db946-f218-4a19-b564-17a50b839776/1.0.244.688.14f478d1-ef6d-4656-8884-2404cafcde1a/nbalive15_1.0.244.688_x64__zwks512sysnyr
+http://dlassets.xboxlive.com/public/content/16ae4e95-db05-4826-aafd-73b51afffdd3/896c72ab-e387-4921-9c9e-002b5a865b8a/1.0.0.0.4100aa84-4629-4f28-ad0e-8f62a6657a02/Untold.Stories.Episode.1_1.0.0.0_neutral__8wekyb3d8bbwe
 http://dlassets.xboxlive.com/public/content/16e4c684-76ac-4842-a894-3cdb475792c5/e997e122-eda0-43ce-93bf-59098da2a5a7/0.1.0.4.18942fab-1d50-4052-a99d-c58131144296/com.doublefine.cq2_0.1.0.4_x64__hbnmrstzqndt8
 http://dlassets.xboxlive.com/public/content/18904bca-957f-445f-9f30-1d4ac945bbc9/6f05976b-285f-4680-99c7-4ca3d10f99b2/1.5.1219.1.53c29d1c-7486-42c2-8f5a-98985fc6f4d9/LC2_1.5.1219.1_x64__ywaz7tst186jr
 http://dlassets.xboxlive.com/public/content/1b5a4a08-06f0-49d6-b25f-d7322c11f3c8/0cd0578b-4968-4888-954e-2718964b4bfa/1.5.0.1018.f6c51bcd-6ad5-4e39-9e6b-bd3ad9ce016d/ACUUS771E1BF7_1.5.0.1018_x64__b6krnev7r9sf8
@@ -2410,6 +2420,7 @@ http://dlassets.xboxlive.com/public/content/251d7bae-c982-4724-96cc-47992b8c7768
 http://dlassets.xboxlive.com/public/content/2c447b71-a68c-4a1c-bb03-491f3756f623/4b997820-a0ca-438c-9e96-234597e4c6eb/1.0.0.3.969c04ee-a1c0-4a3a-8b9c-4854df06a0ad/Ultratron_1.0.0.3_x64__qd5d57417w9x4
 http://dlassets.xboxlive.com/public/content/2c956fdf-e571-4708-a718-28d52e44257f/f588c4e4-5bb9-4494-a408-568530c69dcd/1.0.1.0.bd0d6c1b-0bba-432b-ae62-67d831320b55/WolfOldBlood_1.0.1.0_x64_ww_e86sq5yxzajhg
 http://dlassets.xboxlive.com/public/content/2deb588b-a094-4274-a116-12592193a753/53dc7936-8cd1-46d9-a5d1-cf4ab6ce81e0/1.0.0.5.0aa0e687-1bbe-4c35-8bb4-4211b8c8291a/QUBEGame_1.0.0.5_neutral__4kmja8trdgc86
+http://dlassets.xboxlive.com/public/content/33f75b01-b4c4-49f9-9cd9-8d0d19b2a15e/c3597b53-a099-4700-a04a-2dee72527fba/1.0.0.0.5fa901b0-7363-4799-8b68-0b52c551cebf/Nick.Ramos.Pack_1.0.0.0_neutral__8wekyb3d8bbwe
 http://dlassets.xboxlive.com/public/content/37c898af-1d5f-4f38-a9e8-c7d669ff7abc/5c4f6773-76a4-496e-8ef3-9057af9e5347/1.0.1.2.2cf86f62-85d8-4d16-a186-0c418e33990c/Viper_1.0.1.2_x64__zjr0dfhgjwvde
 http://dlassets.xboxlive.com/public/content/38674c69-5923-46a4-822a-40d3013cdc51/d34ac416-2c82-4c90-b412-fbbabd79cb75/1.3.0.0.2e5d474b-61ba-4a2e-bad8-edf0005ed910/38674c69-5923-46a4-822a-40d3013cdc51_1.3.0.0_neutral__zjr0dfhgjwvde
 http://dlassets.xboxlive.com/public/content/3d595ce4-5a7b-4217-a6b8-8f23b3a8acea/676a237f-45ac-447f-a65a-fdf60ea064e1/1.4.1696.1851.2abaa887-9f5a-48a3-a15b-5edbae685b35/SunsetOverdrive_1.4.1696.1851_x64__zjr0dfhgjwvde
@@ -2423,6 +2434,7 @@ http://dlassets.xboxlive.com/public/content/4b938ac8-a2cb-4721-bfe6-c2115c98aa7c
 http://dlassets.xboxlive.com/public/content/4d7b14f1-b5ce-4a27-aafe-3355ed337cef/0b83e938-0c0f-4d36-811a-01dee22dad98/1.0.0.1.e50d4bee-a7ec-4f9b-a5ec-f1e6f0a50550/Prototype_1.0.0.1_x64_WW_ht1qfjb0gaftw
 http://dlassets.xboxlive.com/public/content/50de0023-299a-49ee-ae2a-63f96a47b235/9acfe5cf-d58b-4320-b150-950e124c24e3/1.0.0.0.8371bed3-9603-4b30-805a-332674bd32c7/Titanfall.DLC.MapPack3_1.0.0.0_neutral__8s70symrha4j2
 http://dlassets.xboxlive.com/public/content/52dbe77b-4e3e-4385-90f1-47910db896fd/35ad8f77-c0cf-4089-bcc1-e5bfd7ccb2fa/1.0.0.3.25c6ade8-c44d-4752-92a5-0ebab78c32fa/WalkingDead_1.0.0.3_x64__5jz77rkckcm0j
+http://dlassets.xboxlive.com/public/content/55f523af-6dd8-4fc1-b0ff-dabbe8f59832/b41fedcc-6954-44ae-a1c9-1a80c078f9c7/1.0.0.0.1f7bb26f-cb86-4230-a395-41afeca8fe34/Untold.Stories.Episode.4_1.0.0.0_neutral__8wekyb3d8bbwe
 http://dlassets.xboxlive.com/public/content/59157efd-119d-4efc-b006-76f0ac31ffb9/9a6ebf57-03d1-4127-a827-367fe6c4fcf5/1.0.0.5.70efe57d-d1ef-4153-8e82-a8011c913556/ORiGOGAMES.SoManyMe_1.0.0.5_neutral__qc6z64eg89340
 http://dlassets.xboxlive.com/public/content/5c1a8590-fa1e-40b9-b7e8-094493b38053/ae8ffcb3-adf4-48fe-af97-64a9f8b82fb6/1.0.5.0.72824b7b-217d-4d29-bd46-92fe666dedea/UndeadLabs.StateOfDecay.Preordered_1.0.5.0_neutral__8wekyb3d8bbwe.xvc
 http://dlassets.xboxlive.com/public/content/5c660145-aca6-4eb9-9131-cdfb684d8016/b183d49d-c53b-447b-a622-4d73e620fc1e/1.0.2.4.baf3b91c-6cf7-47eb-9100-b69f7dd05c9e/MetroLastLight_1.0.2.4_x64__ex3d072z140yr
@@ -2445,12 +2457,14 @@ http://dlassets.xboxlive.com/public/content/7976b9c2-eedc-419b-acd2-63981edb7c61
 http://dlassets.xboxlive.com/public/content/809a88a0-0dac-4687-805e-c0a78a058217/018e9c1b-15bb-458a-9130-f127ff4eec17/1.0.0.6.6178f67c-51d7-45cf-ad05-8a482094bc6a/NBA-2K14_1.0.0.6_neutral__zjr0dfhgjwvde
 http://dlassets.xboxlive.com/public/content/83a0242a-a116-4ee2-882c-da39d1b80e41/cac2c774-0429-4c33-a64a-a299679f8336/1.0.0.0.fd65eeda-f898-4aab-858a-67055e5d6fed/1234abab-1234-1234-1234-dddddddddddd_1.0.0.0_neutral__zjr0dfhgjwvde
 http://dlassets.xboxlive.com/public/content/866f0a16-3a62-4e82-a72b-62e8e655761d/806d8f5a-a293-4810-842a-50fe98f3615f/1.0.22.0.c6cb5841-db14-41fa-952c-fb244c4b8095/FNK2-WW_1.0.22.0_neutral__6rm40ky9yd5pg
+http://dlassets.xboxlive.com/public/content/871a471a-5419-4b70-a526-d53e819a08c4/5c815afc-01c3-40e6-909c-95b719179240/1.0.0.0.ca89b4ab-91c2-4078-952d-db2357399144/Untold.Stories.Episode.3_1.0.0.0_neutral__8wekyb3d8bbwe
 http://dlassets.xboxlive.com/public/content/8ef9f044-dab7-49f9-9ec6-0aa4c1686efe/191a8712-4cfe-489a-9c60-a8ae2d18daa6/1.0.11.1.ebf61cae-dbc5-45ce-a6d7-22439e17334a/Titanfall_1.0.11.1_x64__8s70symrha4j2
 http://dlassets.xboxlive.com/public/content/90cd3c08-e2a7-4f60-8ea1-b0c64ac19381/75b5d8e1-70b9-4157-a360-4446402b8c8d/1.0.0.4.e765bc04-2e34-4e2c-9733-d3b851b6fdf7/ExorStudios.ZombieDriverUltimateEdition_1.0.0.4_x64__vyg7nrqfjmt2r
 http://dlassets.xboxlive.com/public/content/915ccde9-5c9c-4a11-869d-cea1d4d72aea/0c3bc9fb-9d9d-4130-b450-f7b210ddd9ae/1.0.6.0.631436bb-1548-4bad-a691-07621803399c/nhl_1.0.6.0_x64__zwks512sysnyr
 http://dlassets.xboxlive.com/public/content/927c93f2-d7ac-4541-a26e-56e87030f6df/1eaf8172-bf41-4605-b758-4a00aca5dfcf/1.0.0.0.d7fb5a48-0b96-4210-98ff-8320ba199c6c/Titanfall.DLC.MapPack2_1.0.0.0_neutral__8s70symrha4j2
 http://dlassets.xboxlive.com/public/content/931f95e6-af78-47e6-8d7b-8c58315e5185/e5834f11-21b7-4665-b2ea-013a9f37b0e3/1.0.8.0.e4111c76-8935-43a7-ae13-21de889c01e6/ufc_1.0.8.0_x64__zwks512sysnyr
 http://dlassets.xboxlive.com/public/content/958a7e19-aa24-45b2-a71c-d86298c50454/7b0203b4-8348-49ac-9872-57a77d283be5/1.0.0.5.8777f1af-35a6-446f-b25d-818978fc5800/OverTheMoon.TheFall_1.0.0.5_neutral__xrydq6t2wfthc
+http://dlassets.xboxlive.com/public/content/958d9c21-17a1-4a54-9828-957df3eae511/e8ef7347-2117-42fc-85e9-bd9705e48d02/1.0.0.0.3ab0db82-eb81-4caf-86dc-57bea1d7dc8f/Untold.Stories.Episode.2_1.0.0.0_neutral__8wekyb3d8bbwe
 http://dlassets.xboxlive.com/public/content/95f46274-02f4-4506-b23b-dfd7f4f8b4f7/79bb07b5-f533-4e6e-ac74-94595db47cf9/1.5.0.0.d140b6c2-3408-4f7e-a4a0-5c2593c4e78f/e1ed6636-fb01-440d-9af5-ee0b82a12072_1.5.0.0_x64__n8p1nce9y4t28
 http://dlassets.xboxlive.com/public/content/9687a97b-876c-417b-9de2-852159936ff7/233b2e83-7493-43fa-b3f3-92127e82dcd0/1.0.0.2.7908c953-f4a9-442f-8170-2d0698d599ed/BBCPEX-US_1.0.0.2_x64__8vt0hqfaaymfc
 http://dlassets.xboxlive.com/public/content/988b4862-9b7e-40d8-b720-4984624986a8/d24104b1-b391-4fc7-a479-d34a5f874d7c/1.1.0.0.1619be6c-b942-4290-b928-cdb9485ceb86/WolfNewOrder_1.1.0.0_x64_ww_e86sq5yxzajhg
