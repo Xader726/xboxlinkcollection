@@ -1656,6 +1656,7 @@ http://assets1.xboxlive.com/5/8de1792a-7395-4247-bb30-164022e1229b/4032303f-2ff9
 http://assets1.xboxlive.com/5/92457680-2e29-4769-afd2-8fcbe7fa6146/085d3ef1-1aa9-47a9-b4d5-5fc2a445ea41/1.8.0.0.50cbb0d2-2f23-4f9b-b498-f6036301766f/update-1.2.0.0.5c435f44-446a-4537-9b3a-de9effdb94d0.xsp
 http://assets1.xboxlive.com/5/93fece65-7b3a-43d0-a4fb-90f2044036db/6ce93b1c-8aac-458f-9251-4571216cf7ed/1.1.1.0.5c5bc94c-f9b0-4dd2-8efb-ec4cf007f0c6/ClickteamLLC.4443891673FFB_1.1.1.0_x64__6hr7gq7xhprb4.xvc
 http://assets1.xboxlive.com/5/957370c7-36f6-4b1e-ac9d-2cb982b76955/5299df98-5d32-4efe-b59a-b5523e9fc4b3/1.0.0.8.e2bf8ab0-20e4-4ebf-ae0c-2d694715d402/e7590cd3-be2c-447f-8593-daefc7c8cacb_1.0.0.8_neutral__zjr0dfhgjwvde
+http://assets1.xboxlive.com/5/986bffd6-d0c5-41bc-b8cd-d93c4d4dcbea/cdef4bfb-dd55-4e74-a447-bfe71d759f06/1.0.6.0.d517834b-8f28-48c1-936e-d0ca09e09a94/StreetsOfRage4_1.0.6.0_x64__j4exxbfx6qkx0
 http://assets1.xboxlive.com/5/9b152096-1ed6-4ca7-8529-97069b07af48/d8d24760-5636-47bf-a3d6-ac0128855446/101.0.48.6807.062b0edc-24c9-4712-8d04-e0d14beb6023/DCUniverseOnline_101.0.48.6807_neutral__d440nphjxjxrm
 http://assets1.xboxlive.com/5/9bca7cde-2759-45dd-a0b5-f1459cbb27a8/d4a06cee-d1f5-4eb1-b6df-000976933a9d/1.1.2.3.4ba02616-90f4-4cd2-a469-b00d0fbdfae6/update-1.0.1.4.e60eee8a-5b4a-4ad0-844a-ad2924fe9315.xsp
 http://assets1.xboxlive.com/5/9bf13fc1-fa8b-43be-aeaa-1c5f358971f0/8a1c1ee4-b71e-4040-bcf1-d401742b53a5/1.0.4.5.d0b5c984-150d-457f-9207-caa444ff1543/BlackDesert_1.0.4.5_x64__qt5fdt83cbzyc
