@@ -2472,6 +2472,7 @@ http://assets1.xboxlive.com/Z/ca6c4a5c-fa10-498d-aa47-e95ce38aabb2/dfc55b53-ccba
 http://assets1.xboxlive.com/Z/cad65652-0595-46b9-8d2d-a30425eb4360/c2dbb5cb-a3c1-487b-ac06-9f8568351426/1.5.1.294.2da721a9-ed0a-4955-8ced-11cc0ee51a6c/3973CrytekGmbH.HuntShowdown_1.5.1.294_neutral__5p3fv022epkx8
 http://assets1.xboxlive.com/Z/cd527187-c377-4bc3-840d-3e4530ec7aa8/7a69006c-a505-4bcf-aa8a-e3bb8f28c743/2.0.0.0.149ce309-ea0d-4718-a05f-07b9df4c63d4/IOInteractiveAS.HITMANGOTYAccessPass_2.0.0.0_neutral__6h0y724g59e1w_xs.xvc
 http://assets1.xboxlive.com/Z/cdf0ba6d-8a76-4cac-947c-30186ec97a54/34a2ef07-93b7-48b7-833a-e4bbc037f7d5/1.1.800.20.1aa02369-fe4d-447e-a4c4-767a26cb4aa0/ARKSurvivalEvolved_1.1.800.20_neutral__2wc4svk0vzm80
+http://assets1.xboxlive.com/Z/ce407ceb-8025-453c-a47e-5250ca722024/d757dca0-3905-4c28-8585-57f9bc56c487/1.0.8.0.b4059433-b462-4b81-a4c4-7ca83301e0df/38985CA0.COREBase_1.0.8.0_neutral_ww_5bkah9njm3e9g_xs.xvc
 http://assets1.xboxlive.com/Z/cec4c47c-78e2-420c-bf1c-4aee3ce773fe/3d7efd63-f26f-41d1-9f3e-f55dfee68186/1.359.918.0.9c1f5592-3aea-4caa-ae78-e6a41c4938be/Sunrise_1.359.918.0_x64__8wekyb3d8bbwe
 http://assets1.xboxlive.com/Z/d210d1e4-3ead-47f3-b2e2-1d44e5022c4b/0998342e-f8c3-47c0-86d5-812726ca1b64/1.0.0.58736.65ea49bf-466c-4aab-822f-e9af6e36dac4/nSpaceInc..SwordCoastLegends_1.0.0.58736_neutral__py4th9v77fe88
 http://assets1.xboxlive.com/Z/d2885aa7-c2e7-43e0-b956-9c1fc18529b4/d403dbc6-c500-454b-af51-bec7e05b8ecb/14.0.0.65535.48840acb-f021-45f9-8d35-2e170aaffd99/Flame_14.0.0.65535_neutral__nvp2ab6bqj9k6
