@@ -65,6 +65,7 @@ http://assets1.xboxlive.com/1/55796f7b-19e7-46da-9614-07bfccc9b6ba/24b58cb1-5ee3
 http://assets1.xboxlive.com/1/5676fbb0-c9d4-424b-a701-a5832576f10d/494893d8-1190-4b8a-b39c-9085292d8194/1.24.0.0.5cf48d69-921a-4e15-9560-9e49701b09e2/Krakens_1.24.0.0_x64_WW_47kce9exp58r2
 http://assets1.xboxlive.com/1/56fbe0a0-55cc-4420-8783-f60e9570ad7c/fab44cc1-ea4f-4164-8332-44c0125c5817/1.4.0.15.04cabb7a-e67e-4607-944a-08446077d46c/CurveDigital.Human_1.4.0.15_neutral__qd5d57417w9x4
 http://assets1.xboxlive.com/1/58055899-e05e-4411-887e-2420ccd974a8/f9abdb3d-5505-4171-84d5-601fa185a419/1.0.6.0.5ab66cc3-6900-4022-860a-254efdb3add0/Aspyr.StubbstheZombieinRebelWithoutaPulse_1.0.6.0_x64__76qfnh0a0z6g6
+http://assets1.xboxlive.com/1/595b4a0f-9633-49d7-bceb-0052ca4aa81b/d757dca0-3905-4c28-8585-57f9bc56c487/1.0.52.0.f7cfda25-7346-47fd-9197-80d281376222/38985CA0.COREBase_1.0.52.0_neutral_ww_5bkah9njm3e9g_x.xvc
 http://assets1.xboxlive.com/1/5a49082f-2122-41ef-bc2c-3312e322f6e2/b0ca2464-8182-41a1-9875-a6383c097851/0.1.0.123.7110fa02-a9c8-40a7-91a7-2ddba89eb4b0/Overwatch-W_0.1.0.123_x64__6ey1pyv1s0chc
 http://assets1.xboxlive.com/1/5b53ff84-5ee7-4cbc-b01e-07373edcb8a7/aa4067db-8d5c-4751-b23d-9be72f8a8757/1.1.1.0.e9b8a663-2077-4630-8b40-4c5292f34fbb/ANUMAN.TheSmurfs2ThePrisonneroftheGreenStone_1.1.1.0_neutral__sss09yjpacz64_xs.xvc
 http://assets1.xboxlive.com/1/617313ce-e56e-4346-8341-89ecda4d7dd8/c3ea3e9c-2b23-40ef-bbab-393200d8af78/1.0.0.0.b6c72d2d-f01a-4ad0-a3c8-ea26feeee032/Batman103_1.0.0.0_neutral__5jz77rkckcm0j
@@ -1210,6 +1211,7 @@ http://assets1.xboxlive.com/14/f6c0650e-491e-4adc-b03a-862bfc56740f/75c7fac4-71a
 http://assets1.xboxlive.com/14/fa229bc1-e0a4-4221-b664-dd3a2c6851a0/c5c64c23-b887-4f66-ab2e-52875e302013/2.0.72.21926.f738db74-bfe1-41a8-9fd9-caabc7901fe5/ElectronicArtsMobile.FIFA22XBSX_2.0.72.21926_neutral__q5ha1ztykcgvj_xs.xvc
 http://assets1.xboxlive.com/14/fe24bb25-26dc-4a7d-ab80-4f0025f54a20/343f7ef2-0809-4440-a78e-63237d1d663d/3.9.9.0.668afaf3-7fbc-463f-a700-c85ceca94520/A278AB0D.Asphalt9_3.9.9.0_neutral__h6adky7gbf63m_xs.xvc
 http://assets1.xboxlive.com/14/fe31d84d-66e3-41e3-bacf-8e2a71553a6c/06de39c5-2f4b-4230-85c6-9b3859586b9c/1.0.464.418.3b65bf4c-7e12-4405-bbed-b29e5201066a/nbalive18demo_1.0.464.418_x64__zwks512sysnyr
+http://assets1.xboxlive.com/15/006f42cd-e429-447e-86d2-cd71fe34f55e/d757dca0-3905-4c28-8585-57f9bc56c487/1.0.53.0.9a7a3342-d980-4437-8b6b-e5a00ec4b2d0/38985CA0.COREBase_1.0.53.0_neutral_ww_5bkah9njm3e9g_x.xvc
 http://assets1.xboxlive.com/15/0075e31a-74d9-4cf9-9d32-29bb0f9bcf22/a880f315-b617-4d89-99a2-78175172f2d7/1.0.0.14.2cb28fd8-d3ff-47d8-97aa-3afb2dd69604/NBA-2K21_1.0.0.14_x64__mna39bk2p9xg2
 http://assets1.xboxlive.com/15/02429a85-c58e-447c-8b7f-d998538a05f2/b7349619-5a86-47aa-a75c-9d1cb3f4c44e/1.0.0.5.74d245e4-9333-4310-b55f-da78e08ad4d1/OriginEUNA_1.0.0.5_x64__zph8pnx224h38
 http://assets1.xboxlive.com/15/02675a34-2d92-4ac7-8418-b6edf625c551/6867e190-79fd-44db-b5fc-b8c4ed4bc508/4.15.0.0.fb7441fa-4743-45e1-9362-81540ac419fe/DigitalExtremes.8d4ca390-4cd1-44b8-a82a-912b115115_4.15.0.0_neutral__0n634089h64j8_xs.xvc
@@ -1444,6 +1446,7 @@ http://assets1.xboxlive.com/2/21df0778-162d-4e1a-8a03-535483d1ab3f/4d344942-eec2
 http://assets1.xboxlive.com/2/265abf6b-fb26-4c69-86e4-cfe1826186c2/fc24ced0-c12f-4de3-ad43-f4249dcfc05a/1.0.1.2.3cdf7a9c-47a9-4639-a674-b563787f35f4/iw8Submission.DLC.DLC15_1.0.1.2_neutral__ht1qfjb0gaftw
 http://assets1.xboxlive.com/2/276f8d69-8031-4596-a1e6-93a4b31020d3/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.19.7022.0.2a0f16c8-9bb1-471d-839d-14deabc94777/Microsoft.MinecraftBeta_1.19.7022.0_neutral__8wekyb3d8bbwe_x.xvc
 http://assets1.xboxlive.com/2/2898aa41-fef6-4f33-a00a-3e0f5af448d4/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.20.2021.0.d4f260ef-11f2-49cd-b101-2a81a50d315a/Microsoft.MinecraftBeta_1.20.2021.0_neutral__8wekyb3d8bbwe_x.xvc
+http://assets1.xboxlive.com/2/2b1ee0a2-f854-4f31-a3f6-14a20a2ff66a/d757dca0-3905-4c28-8585-57f9bc56c487/1.0.53.0.72cac431-6631-4888-b5eb-01c2f9289bd2/38985CA0.COREBase_1.0.53.0_neutral_ww_5bkah9njm3e9g_xs.xvc
 http://assets1.xboxlive.com/2/2bc4e26c-5826-4932-a803-378e71ecfb30/74f2fb66-b180-47ac-9bfe-425d3424cb62/3.3.1.0.f2f87871-de84-43d3-b1e1-25e8919fdd43/TEKKEN7_3.3.1.0_neutral__zspxnp13p70qc
 http://assets1.xboxlive.com/2/2c048a87-c6f0-4815-99ac-105ff5c56140/e7335149-5d13-416c-9e3a-96eb6bd4464c/1.0.64.58355.3558eca7-dd37-4a9a-b03d-072ccd7a6539/Casablanca_1.0.64.58355_x64__zwks512sysnyr
 http://assets1.xboxlive.com/2/2c26925c-0946-4f1f-a145-20d60a6bd82f/bf5b4bd4-c581-4aa9-8536-746ee1f8e55f/1.0.0.0.88cd2cfb-eebf-4248-9b1b-1b2491b1585f/RatalaikaGames.GolfZero_1.0.0.0_x64__yk66821rs6aqp.xvc
