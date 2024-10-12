@@ -2186,6 +2186,7 @@ http://assets1.xboxlive.com/3/26665884-6223-44bc-a6d8-4a614b9d520f/3741db6d-f2a6
 http://assets1.xboxlive.com/3/2839d0cd-adc4-4bd4-b708-16a0bdfc9016/9bea9cd4-0fe1-4d89-9227-0d7af06067ff/1.2094.0.0.a083577b-bdf9-4ee8-bc70-65298f6bdc1a/ACE-America_1.2094.0.0_x64__a43ghgr8ekz80
 http://assets1.xboxlive.com/3/286d0546-84c7-4074-aa91-940daafafd35/d4a06cee-d1f5-4eb1-b6df-000976933a9d/1.0.9.6.a2209b79-5060-4e86-b7e6-4dcaadf63747/RocketLeague_1.0.9.6_neutral__c7ezv2ggf5q78
 http://assets1.xboxlive.com/3/2937c109-6fb4-4d23-8010-eb6776a152c6/9d8aafe7-e3bd-4495-acaf-24759f64121e/1.1.1.0.9b1479ae-4b75-408f-acab-05634cfc7b9b/39EA002F.OCTOPATHTRAVELER2_1.1.1.0_neutral__n746a19ndrrjg_xs.xvc
+http://assets1.xboxlive.com/3/2a086179-c9f9-459f-afe6-862b2249f9f5/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3689.184.536e81ff-d8cd-4415-ad2b-b8d8021b9717/436609B6.FortniteClient_1.0.3689.184_neutral__9ncxwbgmmv7m8_x.xvc
 http://assets1.xboxlive.com/3/2a437426-e33d-4ae9-8496-e38eb68c5bac/51eb81e1-02bc-4eab-8abe-3eb0849acb3c/19.709.915.19.5b9399ab-831f-47ca-9d35-1b6e18575dc9/SOULCALIBUR58410904-GAM0_19.709.915.19_x64__enma4ernx77gw
 http://assets1.xboxlive.com/3/2adc4f49-9ece-469a-8e55-246671608a68/f972e02c-90a6-4902-b82c-b39f16db83b0/1.0.26.0.2471921c-b37b-466f-8eb5-b1149250ec57/946B6A6E.WoLongFallenDynasty_1.0.26.0_neutral__dkffhzhmh6pmy_xs.xvc
 http://assets1.xboxlive.com/3/2ba46e65-c05a-4ad6-86c9-3cf448f5995f/71b109b8-9a4e-40f9-949f-7861520c2738/1.0.28.0.64c4291d-a0dd-4f8f-b10e-ae48a686e6c1/b3226fd64d959d3985cfb2af89d60d89_1.0.28.0_neutral__y1hpr1csbns3p
@@ -3339,6 +3340,7 @@ http://assets1.xboxlive.com/7/66ae7abb-53cb-4526-925e-67b837addee2/75ba05ab-c694
 http://assets1.xboxlive.com/7/66bd0910-24d3-47f2-920d-591584aaebce/a1b95d28-0d61-4f03-9c80-3c09f20e2dca/1.0.0.4.e51ab990-1697-4486-ae6f-f0fe72e71148/D089F9D9-65C4-43D6-A98C-85559C4DCC42_1.0.0.4_x64__5hbhre4f84e2w
 http://assets1.xboxlive.com/7/674b5ef3-148c-41d1-a7b2-55b53035f82a/e392c7d9-7833-4068-ba19-bd219337e91e/1.0.0.2.8557b769-e253-457d-a53a-b686b4e9413e/FocusHomeInteractiveSA.ERA-BaseGameXSeries_1.0.0.2_neutral__4hny5m903y3g0_xs.xvc
 http://assets1.xboxlive.com/7/67ebd4ea-c96a-4fb7-bb17-709132ab48e0/36977c68-a74e-470f-9330-961e2a867d54/1.0.11.0.75bedf7f-9797-48bf-9b0c-338b7a58c245/SadSquareStudio.Visage_1.0.11.0_neutral__855q6fdw1qbrg_x.xvc
+http://assets1.xboxlive.com/7/689fad60-5752-443d-8178-02c90509caf4/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.3689.184.9d73696c-da73-4b5d-811f-d200e6fd2160/436609B6.FortniteClient_2.0.3689.184_neutral__9ncxwbgmmv7m8_xs.xvc
 http://assets1.xboxlive.com/7/68ec214e-4d82-40c3-a299-7c8d319170d4/058b374d-428a-46ab-a1db-e505d268a074/1.0.0.37.2f5ad8d1-3a09-499c-a10a-770d2acce50b/MXX_1.0.0.37_x64__zwks512sysnyr
 http://assets1.xboxlive.com/7/69431d21-adfe-4082-ad34-48e7532da59c/bd518d4d-e272-4641-96e9-5cd22d6f5e13/1.0.0.8.7e705988-4076-46cb-a538-dea1c9519194/LordsOfTheFallen_1.0.0.8_x64__xg7afcgfzcz34
 http://assets1.xboxlive.com/7/6b5eeb4b-8f68-43bf-995a-72b23e3f1111/793ec4a9-b4c1-4496-b786-b005de6b6c81/1.0.0.67.b79fe38a-84b5-4aa9-a90f-cba2f5fc3016/WarfaceGame_1.0.0.67_x64__emv97d6rxwffm
