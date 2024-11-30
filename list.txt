@@ -1203,6 +1203,7 @@ http://assets1.xboxlive.com/13/33f6209a-d04a-46e9-9d15-3d56a5a5f367/8d549bba-520
 http://assets1.xboxlive.com/13/345f811b-3192-485e-8cbf-7a8f6280cbeb/2407879b-26f8-4006-93eb-0272dec2f6b7/1.0.0.8.e8d1c921-98b5-4cac-976d-7f9fb0b48a08/WhitethornDigital.MagicalDelicacy_1.0.0.8_neutral__wm90jk67xa6wg_x.xvc
 http://assets1.xboxlive.com/13/354f7442-f95d-411c-9db5-69226707c40b/fabba22c-010e-4b3a-b6a6-01d1a7c1050b/1.0.0.51.edb7f309-f421-4c74-86b9-81f3deae85b4/Project76_1.0.0.51_x64_WW_e86sq5yxzajhg
 http://assets1.xboxlive.com/13/368aea82-6c1f-4ab3-aba1-5211881567bd/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.2307.899.d7e77724-4382-4b25-9d82-f837f3d99f5d/436609B6.FortniteClient_1.0.2307.899_neutral__9ncxwbgmmv7m8_x.xvc
+http://assets1.xboxlive.com/13/3776d6e5-0c31-4dba-825c-107a740080fa/12b1556f-01a5-49bf-b94c-89b5a628738f/1.0.5.0.b3a623db-31f3-40d9-ac76-5fc58faaca3e/38985CA0.555990ACB1BE8_1.0.5.0_neutral_cod_5bkah9njm3e9g_x.xvc
 http://assets1.xboxlive.com/13/377e295f-40ef-4d4f-b98a-b49720251c20/83796785-574f-4dae-bf6b-923847e0a93d/1.0.0.1.bfd3879e-060e-49f8-94df-f47641929335/RatalaikaGames.CrosstheMoon_1.0.0.1_neutral__evtzxnwt5e7ra_xs.xvc
 http://assets1.xboxlive.com/13/382033db-9907-468b-9a41-4a96243ad1ee/52ccf924-d82a-4828-86be-ee12fb5011fe/19.627.50.1812.03a6aabb-077f-4b3f-88e2-6337e8059041/MGSPWHD4B4E083C-GAM0_19.627.50.1812_x64__7cn57wbjj1ka0
 http://assets1.xboxlive.com/13/387488df-7c42-479d-a09e-461e1e67fc8e/1bdb89f4-5c34-44bf-a7f6-03d04f0b4674/1.0.0.12.6a836aee-c5ef-49cc-8545-0fd162ae831f/DusenberryMartinRacing.NASCARHeatEvolution_1.0.0.12_neutral__hh9c3sxggne3m
@@ -3687,6 +3688,7 @@ http://assets1.xboxlive.com/8/22e0a0af-584f-48d7-a37a-50cb583662df/23b8fb98-6ba0
 http://assets1.xboxlive.com/8/23b27f14-2ae3-4886-a114-71149203a996/f20d9853-e108-4573-8214-0f4a4bc30f43/1.1.4.0.ad367f58-672f-4175-83f8-285571c6f1b5/5733EF57.ELDENRING_1.1.4.0_neutral_WW_rd9nrpbe1455p_x.xvc
 http://assets1.xboxlive.com/8/26761341-33ad-418a-b078-aaa8a6aaedfd/d757dca0-3905-4c28-8585-57f9bc56c487/1.0.21.0.042a4faa-7c62-474a-94b7-362a22e4c556/38985CA0.COREBase_1.0.21.0_neutral_ww_5bkah9njm3e9g_x.xvc
 http://assets1.xboxlive.com/8/26bf0106-c640-4273-bb33-c3591910017d/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.1371.5541.20229e55-2f91-4ab0-a17a-8f2dd584f7ce/Fortnite_1.0.1371.5541_neutral__d5xxtpggmzx6p
+http://assets1.xboxlive.com/8/2788f8ec-f334-427f-807d-7fde1a505ac0/7b025cd7-ed9c-441e-beb7-1bb55d3dff10/23.2410.210.0.904adb1f-c4a9-48ce-b5f3-7b4cf27fe9ca/39C668CD.PowerWashSimulator_23.2410.210.0_x64__r7bfsmp40f67j.msixvc
 http://assets1.xboxlive.com/8/27db13a1-4f31-4aba-987f-87bf805023dc/f2f86f94-1955-49cb-a213-c63e5009558a/1.0.5.0.c28d45ba-9b1d-4333-b0dd-b85b46eca38f/MortalKombat11_1.0.5.0_x64_WW_47kce9exp58r2
 http://assets1.xboxlive.com/8/2842b592-15bb-4bad-b8f8-3d9aff91c9ac/83761780-6770-444d-b35b-18e6af17c60d/1.0.11250.16112.7b6daf12-e465-44eb-9466-0dee246b1aac/R6SiegeWW373D69B4_1.0.11250.16112_x64__b6krnev7r9sf8
 http://assets1.xboxlive.com/8/291c2ed0-fc78-47ce-92e3-689a6ed6a26c/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.1591.3292.ebe78350-c14a-4865-99fa-c074bf042d2d/436609B6.FortniteClient_1.0.1591.3292_neutral__9ncxwbgmmv7m8_x.xvc
