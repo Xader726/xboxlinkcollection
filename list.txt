@@ -126,6 +126,7 @@ http://assets1.xboxlive.com/1/6c266b24-b5b5-4e27-a294-e6d75fa23c53/3acfb43f-51ec
 http://assets1.xboxlive.com/1/6dc0fb73-c294-487a-8b5a-0deebeda8b87/f8a93d83-0584-4518-b8e7-f3a6c3c6c0ac/1.0.31.0.9122150c-ea02-446f-b22e-9d51af81c9b1/update-1.0.19.0.1ca9bfde-9145-4552-924f-72df12bb5493.xsp
 http://assets1.xboxlive.com/1/6e872cf9-f95c-4da9-a264-b7d9d2b7979c/9d8d4f1b-946d-40a6-8de6-54d2c057883f/1.0.0.1.658b97ff-dadd-48ee-b43d-05af38c13ee1/DeadRising4-StockingStufferHolidayPack_1.0.0.1_x64__pstntefjbq2xc
 http://assets1.xboxlive.com/1/7044be92-f919-4f15-981e-5ea020f057f5/8d9b5bb7-6442-4dfe-97d9-641bfb57c835/5.0.7274.0.f6e35395-c5d3-4598-9763-30658558e6b4/Microsoft.Cardinal_5.0.7274.0_x64__8wekyb3d8bbwe.msixvc
+http://assets1.xboxlive.com/1/709c3df1-5f12-4c0c-81b3-009ab836ac63/f10ce474-6f54-4ace-a936-94c9bd0af49e/1.0.3.0.b2f1b2b2-2229-47da-9cf1-bfb94bc407de/946B6A6E.NINJAGAIDEN2Black_1.0.3.0_neutral__dkffhzhmh6pmy_xs.xvc
 http://assets1.xboxlive.com/1/709e382e-1c82-4e5e-a2ab-b5935ad0b51e/eaac1a9b-9734-4053-9053-0d86e92f17fe/1.0.0.9.0f4529ea-bd81-49cc-8a19-aae7ba096c15/HBStudiosMultimediaLtd..MarkMcMorrisInfiniteAir_1.0.0.9_neutral__bn8vqj017p956
 http://assets1.xboxlive.com/1/71d51ee9-06ae-4831-9baa-11259643030b/7401a627-f4a2-461f-af22-7ee7b7e26b9a/3.488.996.0.aa56d7ae-ed45-4c0c-bff9-017ab3b9b62c/Microsoft.624F8B84B80_3.488.996.0_neutral__8wekyb3d8bbwe_xs.xvc
 http://assets1.xboxlive.com/1/7268f4ed-5035-4ecb-8e43-fdf2c2e22354/793ec4a9-b4c1-4496-b786-b005de6b6c81/1.0.1.16.d60948e0-9147-41bc-ba4c-f9af9f6e5858/WarfaceGame_1.0.1.16_x64__emv97d6rxwffm
@@ -366,6 +367,7 @@ http://assets1.xboxlive.com/10/40deb9ec-0c2e-40fb-8259-edce11e3fdba/c40efb5d-b58
 http://assets1.xboxlive.com/10/40eae07f-2f14-4b00-a49b-6f1d1b30ff76/c439da7a-33da-44c8-8185-c60334100026/1.1.1.0.c21bfb49-d2d2-47ac-8a6f-7d644abbd99c/JackboxGames.TheJackboxPartyPack10_1.1.1.0_neutral__jxmrq3rted8em_x.xvc
 http://assets1.xboxlive.com/10/4125dc41-4611-4e55-b42c-1a1ef0c9e828/9bea9cd4-0fe1-4d89-9227-0d7af06067ff/1.3385.0.0.641e1d45-3bed-4892-af3f-2f262ff50186/ACE-America_1.3385.0.0_x64__a43ghgr8ekz80
 http://assets1.xboxlive.com/10/41d0ec40-b146-4596-8530-cffbef2b6928/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3795.8378.170b81b2-097b-4b71-9de6-98492f2d777d/436609B6.FortniteClient_1.0.3795.8378_neutral__9ncxwbgmmv7m8_x.xvc
+http://assets1.xboxlive.com/10/41e55ab5-65e8-4bf4-8e56-8611379d1b3d/f10ce474-6f54-4ace-a936-94c9bd0af49e/1.0.4.0.08431579-ec44-4c0a-802a-28e5a13a9a09/946B6A6E.NINJAGAIDEN2Black_1.0.4.0_neutral__dkffhzhmh6pmy_xs.xvc
 http://assets1.xboxlive.com/10/42e7eeae-aa53-41b9-85ed-7889496bdb72/ac70b20a-55dc-4c2d-835c-7cf582ec1de2/2.0.2.0.383128d6-9836-4ae4-9ea7-a77512bb1819/BigbenInteractiveSA.TrainLife-ARailwaySimulator-Xb_2.0.2.0_neutral__tqjv3vrxr8ppw_xs.xvc
 http://assets1.xboxlive.com/10/436296c0-185e-4612-807e-a5c24d22d281/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3621.7724.cfe4c714-91ff-4c97-9cdd-f567e0ea3506/update-1.0.3376.522.709a1c8c-30d7-4683-9697-a4e99d7f0589.xsp
 http://assets1.xboxlive.com/10/448efe29-6c6b-4b46-965c-ee7d6a950605/6d183710-7824-426e-995a-45d91d082a18/1.2969.0.0.069a20d9-5d0f-4aba-babb-078341475438/ACE-Europe_1.2969.0.0_x64__a43ghgr8ekz80
@@ -2214,6 +2216,7 @@ http://assets1.xboxlive.com/2/95f1c987-27d6-43e3-b877-00378caa4269/4032303f-2ff9
 http://assets1.xboxlive.com/2/98af8f8d-fc76-46e1-a3c1-2c43b2180598/09223e6c-5246-430c-b31f-1b84ad579a5d/1.0.0.2.b6a4e421-9695-4dd3-bfb4-80e0871759c4/2AwesomeStudio.Lumini_1.0.0.2_neutral__7vcwmwrnk980r
 http://assets1.xboxlive.com/2/98cb6d93-917e-4cbf-9abc-e56130cfc216/013fdd82-5591-4303-b825-e0618e30614a/1.61.1924.0.d2ea8b55-ac68-44fe-8f2b-d135123e56db/Minecraft_1.61.1924.0_x64__zjr0dfhgjwvde_x.xvc
 http://assets1.xboxlive.com/2/98e24eb8-f18e-4225-b39b-b69661b3c741/aba5b7ac-a34a-42c4-85ef-089c629362da/1.0.0.1.7e4dc55e-9096-4605-8fac-df2dffccb8d9/SEGAofAmericaInc.mba6fd4f3r_1.0.0.1_neutral__s751p9cej88mt_x.xvc
+http://assets1.xboxlive.com/2/9a282970-9a2d-4341-b31c-31dd84d760f9/f10ce474-6f54-4ace-a936-94c9bd0af49e/1.0.5.0.a583db52-fe37-4b9c-bd5e-7fea3fb12180/946B6A6E.NINJAGAIDEN2Black_1.0.5.0_neutral__dkffhzhmh6pmy_xs.xvc
 http://assets1.xboxlive.com/2/9bb0c96b-758c-4efd-82c2-706d896d9023/24bc9b04-6cc0-428b-a0f4-7cef5fc13141/1.0.0.1.b89c2fec-6bd1-4e1b-bf9b-c252d5c3b72e/6A7B46C2.ProjectAllstars_1.0.0.1_neutral__6r7h95ssdd770_x.xvc
 http://assets1.xboxlive.com/2/9bcca555-11b2-4b40-88ff-efaf26cc76c1/d5bd7376-bb4d-4f4d-a9b1-72349b3440bc/1.0.0.0.f248f291-5ebc-46f4-a492-b704ca56b757/WalkingDeadMSeasonPass_1.0.0.0_neutral__5jz77rkckcm0j
 http://assets1.xboxlive.com/2/9cda58c0-e6db-40cb-967e-aa013d6ab655/e7762471-9da8-4648-bb9f-52e63f4f9ca5/2.0.0.20.a5584e31-87e1-4d0c-ae0a-2c6f60a5ad25/79ACB67D.NBA2K24forXboxSeriesXS_2.0.0.20_neutral__yn88nk35a38zw_xs.xvc
@@ -2317,6 +2320,7 @@ http://assets1.xboxlive.com/2/ee5d0b0a-86e0-4aad-bf3f-6e9d7401e760/2c4aa4f0-5201
 http://assets1.xboxlive.com/2/ef3ffdff-cdbc-41c5-9058-c537cda306fc/e869f541-b193-4196-ad9d-31804e982a86/1.0.51.47049.32fa5616-0285-4464-81dc-f6c5b8dee25c/TUN_1.0.51.47049_x64__zwks512sysnyr
 http://assets1.xboxlive.com/2/f0b95b48-6c65-42d9-9053-679064fc21a4/5f50b78a-d262-4375-8881-053b0aa8c38c/100.17.22308.0.a9a7e90a-1e98-4484-a625-a75cbb518423/Microsoft.AthensStandardEdition_100.17.22308.0_neutral__8wekyb3d8bbwe_xs.xvc
 http://assets1.xboxlive.com/2/f4a8c082-b778-415c-a228-40d150a98eec/8f127fb7-9f20-4bb9-b317-60fb363896d3/1.9.10.3.b4bdd928-18b9-4ed0-a862-99e0580a64cd/DXMD_1.9.10.3_neutral__ywaz7tst186jr
+http://assets1.xboxlive.com/2/f52706a6-b66a-4921-aae5-01e6cd06bf3f/c8f998c8-d7d2-403c-91ed-b3aea61f08db/1.0.5.0.1f07eced-9741-41cd-a869-e0edc72e323d/946B6A6E.NINJAGAIDEN2Black_1.0.5.0_x64__dkffhzhmh6pmy.msixvc
 http://assets1.xboxlive.com/2/f5c44e6f-3976-40de-91e6-02ff8c2052da/74186b5d-a12f-4b59-8b91-6211b70f4087/1.0.0.17.37df4c5b-6a9c-4f36-8355-96b5750d04c9/Madden21_1.0.0.17_x64__363jdnrpk8426
 http://assets1.xboxlive.com/2/f76dce92-f95e-466e-b8bb-46b2c32e1b9c/3cfa98e7-8f38-41eb-ba1e-52e610f5a3bd/1.16.11.99.4974c7ee-3558-4efc-bcc8-d3f5c52514e9/WOTXONE_1.16.11.99_x64__skd5zn2mmxapm
 http://assets1.xboxlive.com/2/f9273adf-0004-4a6f-9177-e7080f3000d1/c0512475-759b-4894-a11d-5d28c46137b6/1.3.19.0.919cc3bc-7834-4428-8a38-2808c77db113/RockheadGames.StarlitKartRacing_1.3.19.0_neutral__h1yrhgjr725xt_x.xvc
