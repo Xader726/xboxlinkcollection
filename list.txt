@@ -1693,6 +1693,7 @@ http://assets1.xboxlive.com/14/d1a37986-91ff-4eed-a781-50628eb13f59/e75d41c4-0aa
 http://assets1.xboxlive.com/14/d40f6db8-d422-4117-9c2d-e23cd9c17801/5d8f40f9-ecc4-4fd1-905a-a2f07580debc/1.2.21.0.98a431a0-0aba-429c-b80d-ce7aa1120b47/Neowiz.Unsouled_1.2.21.0_neutral__r4z3116tdh636_xs.xvc
 http://assets1.xboxlive.com/14/d42dbf78-1a4b-41b2-aac0-d9ec45de80bd/3d7efd63-f26f-41d1-9f3e-f55dfee68186/2.478.927.0.1e3842d1-23a5-4e02-b8b4-e60d52746a4f/Microsoft.SunriseBaseGame_2.478.927.0_neutral__8wekyb3d8bbwe_xs.xvc
 http://assets1.xboxlive.com/14/d49a3806-494c-49ca-8427-d533b80e0469/2a89b56d-a6ea-48dc-b36b-d6621bae875d/1.0.0.2.803bc9d4-702e-471c-a286-c072a859f39f/RatalaikaGames.UltraHatDimension_1.0.0.2_x64__yk66821rs6aqp.xvc
+http://assets1.xboxlive.com/14/d6f8cb82-95ea-4beb-b411-67e61da4cbac/fcb75328-1c0d-4e14-ac26-42752e9e6703/1.0.4340.0.f881fd3e-bca3-4b6b-bfae-809bcf92a13c/SEGAofAmericaInc.s1b05f489rw_1.0.4340.0_neutral__s751p9cej88mt_x.xvc
 http://assets1.xboxlive.com/14/d7676bba-d654-4ee9-b2b0-7b6f579a2b7c/a141dedd-57e9-45a7-bd4b-facd33298386/1.0.192.1939.c7243d5c-a963-40b2-b3c7-6ab3b66f7570/TCTDBETA0BE69FEE_1.0.192.1939_x64__z1zgv8ff8e49g
 http://assets1.xboxlive.com/14/d80448a8-eb0b-4392-9798-98e6f2b57458/5ac37326-c917-4d09-b61b-a8426b597904/1.0.6.0.cb3b557b-8f00-45fa-a6f7-65cc52fabe53/Zinc_1.0.6.0_x64_EFLB_e86sq5yxzajhg
 http://assets1.xboxlive.com/14/d8783945-cfe1-45ee-91e9-ff0bf20b5b02/b5264f6c-b11d-4cfc-8da0-f4c6e9f4673f/2.9.1.0.b4809be5-c348-4160-bac3-0e32c42fe0bd/MXvsATVAllOut_2.9.1.0_neutral__7b23meqmzvs8p
@@ -2374,6 +2375,7 @@ http://assets1.xboxlive.com/3/21bd79ea-00fe-4000-b7ce-030eccff6e05/f4eee371-1d31
 http://assets1.xboxlive.com/3/21eb7172-7207-416b-b591-0a1444a64730/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.19.8101.0.4fc2eb8f-206d-4640-8b22-2b59f8629154/Microsoft.186805A1E9E_1.19.8101.0_neutral__8wekyb3d8bbwe_x.xvc
 http://assets1.xboxlive.com/3/221507c9-0cb4-4d9b-b12c-5ea0aeeae61f/9b4c691d-d97a-48ad-9db9-f12ccf5f68c2/1.0.3.32773.0b6f5192-58c2-4478-b959-7246bf5e5486/PamplonaBeta_1.0.3.32773_x64__zwks512sysnyr
 http://assets1.xboxlive.com/3/237a1880-5ad8-4619-b7f7-afb43695d483/bd7e99ce-9356-40f6-bf4c-dd0b2bef8dfc/1.0.0.9.95492f98-312e-4828-9de7-5044d081995a/SometimesYou.DeepOnes_1.0.0.9_neutral__sb5svpkb23f8c
+http://assets1.xboxlive.com/3/2567f80f-d181-48cd-802c-a82057b98d1a/fcb75328-1c0d-4e14-ac26-42752e9e6703/1.10.550.0.cd09b71b-a570-47ff-a586-5b587c1cfe1b/SEGAofAmericaInc.s1b05f489rw_1.10.550.0_neutral__s751p9cej88mt_x.xvc
 http://assets1.xboxlive.com/3/26116af5-7914-4b72-b02f-90521564e60e/b359243a-6386-4b34-aeb0-912c24610344/1.4.110.3923.24de8931-54f5-4216-b36e-24230cddf556/DeepSilver.DeadIsland2_1.4.110.3923_neutral_Base_hmv7qcest37me_xs.xvc
 http://assets1.xboxlive.com/3/26665884-6223-44bc-a6d8-4a614b9d520f/3741db6d-f2a6-4e5b-99d8-fe22819dffa3/1.1.6.1.aecd4ae5-6b3f-4dd8-b3e1-6dd893e080e5/Apex_1.1.6.1_x64__zwks512sysnyr
 http://assets1.xboxlive.com/3/269b4c91-2329-44ac-abc8-33ee0dd4bedf/25040c01-d986-49c6-9c20-527d06c305c1/1.6.60008.0.b079bb09-2edc-4e72-91cc-539b63dc4303/ConcernedApe.StardewValleyPC_1.6.60008.0_x64__0c8vynj4cqe4e.msixvc
