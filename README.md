@@ -11,3 +11,6 @@ Though there is a lot here, there is also quite a lot NOT here. If you have any 
 If you have any of these, please let me know:
 * Fortnite (coincides with another thing of mine, TAke a look, ny'all: https://github.com/Xader726/FortniteXboxBuilds)
 * Rock Band 4 (also includes songs if you got them)
+
+## Thanks
+dbox.tools: I stole a lot of the stuff from here lol. Quite a useful site for all Xbox consoles! Check it out!
